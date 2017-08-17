@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 
-namespace GildedRose_Refactoring_Kata
+namespace GildedRose
 {
-	class GildedRose
+	public class GildedRose
 	{
 		IList<Item> Items;
 		public GildedRose(IList<Item> Items) 
@@ -85,16 +85,6 @@ namespace GildedRose_Refactoring_Kata
 				}
 			}
 		}
-		
 	}
-	
-	public class Item
-	{
-		public string Name { get; set; }
 		
-		public int SellIn { get; set; }
-		
-		public int Quality { get; set; }
-	}
-	
 }

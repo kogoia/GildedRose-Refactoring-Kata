@@ -1,6 +1,6 @@
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
-namespace GildedRose_Refactoring_Kata
+namespace GildedRose
 {
 	class Program
 	{

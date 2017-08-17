@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("GildedRose-Refactoring-Kata")]
+[assembly: AssemblyTitle("GildedRose")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("GildedRose-Refactoring-Kata")]
+[assembly: AssemblyProduct("GildedRose")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("07c3e2ae-740e-4555-a728-8aa0cd22a7a1")]
+[assembly: Guid("935fef94-5e10-4332-9617-1b2974dc7341")]
 
 // Version information for an assembly consists of the following four values:
 //
