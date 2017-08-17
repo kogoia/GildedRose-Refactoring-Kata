@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace GildedRose
+namespace GildedRose_Refactoring_Kata
 {
 	class GildedRose
 	{

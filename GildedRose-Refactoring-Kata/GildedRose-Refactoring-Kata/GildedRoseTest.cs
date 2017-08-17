@@ -1,8 +1,7 @@
-using System;
-using NUnit.Framework;
 using System.Collections.Generic;
+using NUnit.Framework;
 
-namespace GildedRose
+namespace GildedRose_Refactoring_Kata
 {
 	[TestFixture()]
 	public class GildedRoseTest
